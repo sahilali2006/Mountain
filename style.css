@@ -7,8 +7,6 @@ body,html{
     overflow-x: hidden;
     background-color: rgb(249, 251, 250);
 }
-
-
 header{
     width: 100vw;
     height: 100vh;
@@ -19,8 +17,6 @@ header{
     justify-content: center;
     align-items: flex-end;
 }
-
-
 a{
     text-decoration: none;
 }
@@ -42,8 +38,6 @@ ul{
     justify-content: space-between;
     padding: 20px;
 }
-
-
 .active{
     margin: 0 30px;
     height: 30px;
@@ -230,7 +224,7 @@ align-items: center;
 
 }
 .image-gallery img{
-width: 350px;
+width: 351px;
 height: 300px;
 margin: 10px;
 
